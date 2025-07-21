@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libtimsort.a CMakeFiles/timsort.dir/timsort.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libtimsort.a

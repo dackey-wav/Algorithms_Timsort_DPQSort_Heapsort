@@ -1,0 +1,7 @@
+Nazwa	Rozmiar	Czas(ms)
+Losowy	1000	0
+Losowy	10000	1
+Losowy	50000	8,02
+Losowy	100000	17,4502
+Losowy	500000	98,3845
+Losowy	1000000	215,874

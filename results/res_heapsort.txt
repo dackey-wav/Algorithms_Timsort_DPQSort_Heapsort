@@ -1,0 +1,55 @@
+Nazwa	Rozmiar	Czas(ms)
+Losowy	1000	0
+Losowy	10000	2.05
+Losowy	50000	16.2505
+Losowy	100000	34.6425
+Losowy	500000	213.556
+Losowy	1000000	491.516
+Posortowana 25 %	1000	4.91516
+Posortowana 50 %	1000	0.0491516
+Posortowana 75 %	1000	0.000491516
+Posortowana 95 %	1000	4.91516e-06
+Posortowana 99 %	1000	4.91516e-08
+Posortowana 99.7 %	1000	4.91516e-10
+Posortowana 100 %	1000	4.91516e-12
+Posortowana 25 %	10000	2.08
+Posortowana 50 %	10000	2.1108
+Posortowana 75 %	10000	2.09111
+Posortowana 95 %	10000	2.08091
+Posortowana 99 %	10000	2.03081
+Posortowana 99.7 %	10000	2.02031
+Posortowana 100 %	10000	2.0302
+Posortowana 25 %	50000	16.1803
+Posortowana 50 %	50000	15.4918
+Posortowana 75 %	50000	15.3549
+Posortowana 95 %	50000	15.5935
+Posortowana 99 %	50000	15.2159
+Posortowana 99.7 %	50000	15.0422
+Posortowana 100 %	50000	14.8704
+Posortowana 25 %	100000	35.7587
+Posortowana 50 %	100000	34.5376
+Posortowana 75 %	100000	33.4854
+Posortowana 95 %	100000	32.9949
+Posortowana 99 %	100000	32.9999
+Posortowana 99.7 %	100000	32.86
+Posortowana 100 %	100000	32.5186
+Posortowana 25 %	500000	222.005
+Posortowana 50 %	500000	207.96
+Posortowana 75 %	500000	197.51
+Posortowana 95 %	500000	191.875
+Posortowana 99 %	500000	194.329
+Posortowana 99.7 %	500000	188.143
+Posortowana 100 %	500000	189.131
+Posortowana 25 %	1000000	499.441
+Posortowana 50 %	1000000	462.404
+Posortowana 75 %	1000000	433.384
+Posortowana 95 %	1000000	416.074
+Posortowana 99 %	1000000	404.171
+Posortowana 99.7 %	1000000	403.572
+Posortowana 100 %	1000000	379.196
+Posortowana odwrotnie	1000	3.79196
+Posortowana odwrotnie	10000	2.04792
+Posortowana odwrotnie	50000	12.3905
+Posortowana odwrotnie	100000	27.7839
+Posortowana odwrotnie	500000	172.858
+Posortowana odwrotnie	1000000	370.739

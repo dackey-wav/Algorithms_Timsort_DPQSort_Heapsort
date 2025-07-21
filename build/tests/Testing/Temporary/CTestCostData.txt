@@ -1,0 +1,4 @@
+kopiec_test 5 0.0428768
+timsort_test 4 0.030125
+qsort_test 4 0.0336909
+---

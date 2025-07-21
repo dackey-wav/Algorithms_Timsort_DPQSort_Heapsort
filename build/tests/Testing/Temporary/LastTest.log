@@ -1,0 +1,114 @@
+Start testing: Apr 07 10:02 Центральноевропейский (лето)
+----------------------------------------------------------
+1/3 Testing: kopiec_test
+1/3 Test: kopiec_test
+Command: "C:/Visual Studio/PiAA_proj1/build/tests/kopiec_test.exe"
+Directory: C:/Visual Studio/PiAA_proj1/build/tests
+"kopiec_test" start time: Apr 07 10:02 Центральноевропейский (лето)
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 5 tests from HeapsortTest
+[ RUN      ] HeapsortTest.HandlesEmptyArray
+[       OK ] HeapsortTest.HandlesEmptyArray (0 ms)
+[ RUN      ] HeapsortTest.HandlesSingleElementArray
+[       OK ] HeapsortTest.HandlesSingleElementArray (0 ms)
+[ RUN      ] HeapsortTest.HandlesSortedArray
+[       OK ] HeapsortTest.HandlesSortedArray (0 ms)
+[ RUN      ] HeapsortTest.HandlesIdenticalElements
+[       OK ] HeapsortTest.HandlesIdenticalElements (0 ms)
+[ RUN      ] HeapsortTest.HandlesDuplicateElements
+[       OK ] HeapsortTest.HandlesDuplicateElements (0 ms)
+[----------] 5 tests from HeapsortTest (0 ms total)
+
+[----------] 1 test from HeapsortReverseTest
+[ RUN      ] HeapsortReverseTest.HandlesReverseSortedArray
+[       OK ] HeapsortReverseTest.HandlesReverseSortedArray (0 ms)
+[----------] 1 test from HeapsortReverseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"kopiec_test" end time: Apr 07 10:02 Центральноевропейский (лето)
+"kopiec_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/3 Testing: timsort_test
+2/3 Test: timsort_test
+Command: "C:/Visual Studio/PiAA_proj1/build/tests/timsort_test.exe"
+Directory: C:/Visual Studio/PiAA_proj1/build/tests
+"timsort_test" start time: Apr 07 10:02 Центральноевропейский (лето)
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 6 tests from TimsortTest
+[ RUN      ] TimsortTest.HandlesEmptyArray
+[       OK ] TimsortTest.HandlesEmptyArray (0 ms)
+[ RUN      ] TimsortTest.HandlesSingleElementArray
+[       OK ] TimsortTest.HandlesSingleElementArray (0 ms)
+[ RUN      ] TimsortTest.HandlesSortedArray
+[       OK ] TimsortTest.HandlesSortedArray (0 ms)
+[ RUN      ] TimsortTest.HandlesReverseSortedArray
+[       OK ] TimsortTest.HandlesReverseSortedArray (0 ms)
+[ RUN      ] TimsortTest.HandlesIdenticalElements
+[       OK ] TimsortTest.HandlesIdenticalElements (0 ms)
+[ RUN      ] TimsortTest.HandlesDuplicateElements
+[       OK ] TimsortTest.HandlesDuplicateElements (0 ms)
+[----------] 6 tests from TimsortTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"timsort_test" end time: Apr 07 10:02 Центральноевропейский (лето)
+"timsort_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/3 Testing: qsort_test
+3/3 Test: qsort_test
+Command: "C:/Visual Studio/PiAA_proj1/build/tests/qsort_test.exe"
+Directory: C:/Visual Studio/PiAA_proj1/build/tests
+"qsort_test" start time: Apr 07 10:02 Центральноевропейский (лето)
+Output:
+----------------------------------------------------------
+[==========] Running 6 tests from 2 test suites.
+[----------] Global test environment set-up.
+[----------] 5 tests from QuicksortTest
+[ RUN      ] QuicksortTest.HandlesEmptyArray
+[       OK ] QuicksortTest.HandlesEmptyArray (0 ms)
+[ RUN      ] QuicksortTest.HandlesSingleElementArray
+[       OK ] QuicksortTest.HandlesSingleElementArray (0 ms)
+[ RUN      ] QuicksortTest.HandlesSortedArray
+[       OK ] QuicksortTest.HandlesSortedArray (0 ms)
+[ RUN      ] QuicksortTest.HandlesIdenticalElements
+[       OK ] QuicksortTest.HandlesIdenticalElements (0 ms)
+[ RUN      ] QuicksortTest.HandlesDuplicateElements
+[       OK ] QuicksortTest.HandlesDuplicateElements (0 ms)
+[----------] 5 tests from QuicksortTest (0 ms total)
+
+[----------] 1 test from QuicksortReverseTest
+[ RUN      ] QuicksortReverseTest.HandlesReverseSortedArray
+[       OK ] QuicksortReverseTest.HandlesReverseSortedArray (0 ms)
+[----------] 1 test from QuicksortReverseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 2 test suites ran. (0 ms total)
+[  PASSED  ] 6 tests.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qsort_test" end time: Apr 07 10:02 Центральноевропейский (лето)
+"qsort_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 07 10:02 Центральноевропейский (лето)

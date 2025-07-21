@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libqsort_lib.a CMakeFiles/qsort_lib.dir/qsort.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libqsort_lib.a

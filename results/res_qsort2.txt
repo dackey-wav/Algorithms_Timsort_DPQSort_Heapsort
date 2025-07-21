@@ -1,0 +1,21 @@
+Nazwa	Rozmiar	Czas(ms)
+Posortowana 25 %	1000	0
+Posortowana 50 %	1000	0
+Posortowana 75 %	1000	0
+Posortowana 95 %	1000	0
+Posortowana 99 %	1000	0
+Posortowana 99,7 %	1000	0,01
+Posortowana 100 %	1000	0,1101
+Posortowana 25 %	10000	1,0011
+Posortowana 50 %	10000	1,07001
+Posortowana 75 %	10000	1,2207
+Posortowana 95 %	10000	3,64221
+Posortowana 99 %	10000	6,43642
+Posortowana 99,7 %	10000	7,31436
+Posortowana 100 %	10000	98,3431
+Posortowana 25 %	50000	9,31343
+Posortowana 50 %	50000	9,06313
+Posortowana 75 %	50000	10,1106
+Posortowana 95 %	50000	22,4811
+Posortowana 99 %	50000	53,1148
+Posortowana 99,7 %	50000	70,5511

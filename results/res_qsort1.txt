@@ -1,0 +1,3 @@
+Nazwa	Rozmiar	Czas(ms)
+Posortowana odwrotnie	1000	0,42
+Posortowana odwrotnie	10000	98,7642
